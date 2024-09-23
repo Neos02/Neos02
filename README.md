@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Neos02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Neos02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Neos02&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neos02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
